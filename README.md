@@ -43,13 +43,13 @@ It’s about **real use cases**, **clear instructions**, and **social impact thr
 
 ---
 
-## 📲 LinkedIn Posts Archive
-Find all original LinkedIn posts for these guides inside:  
-📂 [`/linkedin-posts/`](./linkedin-posts/)
+## 📲 My LinkedIn Project Updates  
+I regularly post updates, toolkits, and insights here:  
+👉 [Visit my LinkedIn Profile](https://www.linkedin.com/in/anandhakrishnan-jayan-72763916b)
 
 ---
 
-## 💬 Get In Touch
+## 💬 Get In Touch  
 If these tools helped or inspired you — or if you want to collaborate —  
 Let’s connect: [LinkedIn](https://www.linkedin.com/in/anandhakrishnan-jayan-72763916b)
 
